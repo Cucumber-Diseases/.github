@@ -1,6 +1,6 @@
 # Welcome to Cucumber-Diseases
 
-Welcome to the Cucumber-Diseases GitHub organization! This organization hosts a collection of repositories with exercises designed to help you practice and master the Cucumber-Diseases katas in various programming languages.
+This organization hosts a collection of repositories with exercises designed to help you practice and master the Cucumber-Diseases katas in various programming languages.
 
 ## 📚 Available Repositories
 
