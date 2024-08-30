@@ -1,4 +1,4 @@
-# Welcome to Cucumber-Diseases
+# Welcome to "Diagnosis and Treatment of Cucumber-Diseases"
 
 This organization hosts a collection of repositories with exercises designed to help you practice and master the Cucumber-Diseases katas in various programming languages.
 
