@@ -4,7 +4,7 @@ This organization hosts a collection of repositories with exercises for a worksh
 
 ## 📚 Available Repositories
 
-Each repository in this organization corresponds to a specific programming language and contains a set of exercises ranging from basic to advanced levels. Below in the organisation there is a list of available repositories.
+Each repository in this organization corresponds to a specific programming language and contains the same set of exercises according to our code smells, or "cucumber diseases".
 
 ## 📄 Documentation
 
