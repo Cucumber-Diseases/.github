@@ -8,7 +8,7 @@ Each repository in this organization corresponds to a specific programming langu
 
 ## 📄 Documentation
 
-Comprehensive documentation is available to guide you through the installation process, explain the common code smells (what we refer to as "cucumber diseases"), and provide detailed information about the exercises. You can access the full documentation on our [website](https://cucumber-diseases.github.io/), where you'll find all the information you need to get started, troubleshoot issues, and deepen your understanding of BDD and programming best practices.
+You can access the full documentation on our [website](https://cucumber-diseases.github.io/), where you'll find all the information you need to get started, troubleshoot issues, and deepen your understanding of BDD and programming best practices.
 
 ### 🔧 Installation Guide
 
