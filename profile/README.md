@@ -1,6 +1,6 @@
 # Welcome to "Diagnosis and Treatment of Cucumber-Diseases"
 
-This organization hosts a collection of repositories with exercises designed to help you practice and master the Cucumber-Diseases katas in various programming languages.
+This organization hosts a collection of repositories with exercises for a workshop called "Diagnosis and Treatment of Cucumber Diseases". It is designed to help you practice and master the Cucumber-Diseases katas in various programming languages.
 
 ## 📚 Available Repositories
 
