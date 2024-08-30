@@ -12,11 +12,7 @@ Comprehensive documentation is available to guide you through the installation p
 
 ### 🔧 Installation Guide
 
-To get started with any of the repositories, you'll need to set up your development environment. The [Installation Guide](https://cucumber-diseases.github.io/repos/) provides step-by-step instructions on:
-
-- Setting up the necessary tools and dependencies for each programming language.
-- Configuring your IDE or text editor with Git integration and your preferred BDD tools.
-- Cloning repositories and running your first exercise.
+To get started with any of the repositories, you'll need to set up your development environment. The [Installation Guide](https://cucumber-diseases.github.io/repos/) provides step-by-step instructions on.
 
 ### 🦠 Understanding "Cucumber Diseases" (Code Smells)
 
@@ -24,17 +20,11 @@ Code smells, or "cucumber diseases," are patterns in the code that indicate pote
 
 - A detailed explanation of common code smells encountered in BDD test suites.
 - A description of the impact if present in your tests
-- Examples of these code smells in different programming languages.
 - Best practices for diagnosing and addressing these issues to maintain clean, efficient code.
 
 ### 📝 Exercise Details
 
-Each programming language repository contains a variety of exercises that are categorized by difficulty and topic. The [Exercise Details](https://yourwebsite.com/exercises) section of our documentation includes:
-
-- A breakdown of the exercises available in each repository.
-- Detailed descriptions of what each exercise is designed to teach.
-- Tips and hints to help you solve the exercises.
-- Links to additional resources for further learning.
+Each programming language repository contains a variety of the same exercises ordered by the code smells. You'll find an exercise section in our [Code Smells Documentation](https://cucumber-diseases.github.io/smells/).
 
 ### 🌍 Accessing the Documentation
 
